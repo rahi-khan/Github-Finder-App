@@ -1,6 +1,6 @@
 # Github Finder App
 
-> React app to display different type of chart for the global average temperature
+> React app to display Github Users
 
 ### Check it out live [here](https://github-finder-69.netlify.app/)
 
